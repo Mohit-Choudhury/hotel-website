@@ -1,2 +1,2 @@
 # hotel-website
-html &amp; CSS project on hotel website (demo)
+html &amp; CSS project on cowin replica (demo)
